@@ -1,0 +1,25 @@
+
+
+/***********tag selectors**********/
+body{
+
+}
+h1{
+  color: #66bfbf;
+}
+h2{
+  color:#F1C40F;
+}
+
+form{
+  font-size: 20px;
+  color:#568ea6;
+}
+
+hr{
+  border-style:none;
+  border-top-style:inset;
+  border-color:grey;
+img {
+  background-color:grey;
+}
